@@ -20,7 +20,7 @@
 </picture>
 
 
-<br><br>🚀 Projects I've Worked On<br><br>🌤 Weather App: A dynamic weather forecast app built using React.js, featuring a 7-day forecast and a sleek UI.<br>🍽 MealMate: A food delivery app focused on efficient and user-friendly services.<br>🧑‍🏫 Ranker School: An online learning platform offering courses for school students.<br>💬 Talksy & Tasky: Chat applications built to enhance seamless communication.
+<br><br>🚀 Projects I've Worked On<br><br>🌤 Weather App: A dynamic weather forecast app built using React.js, featuring a current time forecast and a sleek UI.<br>🍽 MealMate: A food delivery app focused on efficient and user-friendly services.<br>🧑‍🏫 Ranker School: An online learning platform offering courses for school students.<br>💬 Talksy & Tasky: Chat applications built to enhance seamless communication.
 
 
 
